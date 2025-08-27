@@ -62,3 +62,17 @@ Researchers, developers, and complexity theorists are invited to:
 **License:** CC-BY 4.0  
 Email: [your email here]  
 
+---
+
+## 📖 Citation & Attribution Notice
+
+This repository constitutes the **original record of the Code Genesis Hypothesis**  
+**Authored by Raj Mitra (2025)**
+
+Permanent archive: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16961545.svg)](https://doi.org/10.5281/zenodo.16961545)  
+
+Any derivative work or publication **must cite this DOI**.
+
+> Mitra, R. (2025). *Code Genesis Hypothesis: Emergent Digital Life in Networked Systems.* Zenodo. https://doi.org/10.5281/zenodo.16961545
+> 
+
