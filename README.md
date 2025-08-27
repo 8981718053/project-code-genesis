@@ -59,7 +59,7 @@ Researchers, developers, and complexity theorists are invited to:
 ## 📌 Contact
 **Author:** Raj Mitra  
 **Year:** 2025  
-**License:** CC-BY 4.0  
+**License:** CC-BY 4.0 (documents, theory) | MIT (future code)  
 Email: [your email here]  
 
 ---
