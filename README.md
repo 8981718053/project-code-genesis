@@ -1,5 +1,6 @@
-# Project Code Genesis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16961545.svg)](https://doi.org/10.5281/zenodo.16961545)
 
+# Project Code Genesis
 **The Code Genesis Hypothesis**  
 *By Raj Mitra, 2025*  
 
